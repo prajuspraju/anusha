@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+div{
+background-color: aqua;
+padding-top: 30px;
+padding-bottom: 1000px;
+text-align: center;
+font-family:Verdana;
+
+}
+.name{
+  font-size: medium;
+  border:2px black;
+  font-size:12px;
+  font-style: italic;
+
+}
+
+
+
+
+
